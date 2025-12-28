@@ -1,4 +1,14 @@
-## Hi there 👋
+## João Augusto Rodrigues
+> Graduando em Sistemas de Informação - UFOP
+
+# Habilidades técnicas
+
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <!--
 **Augusto-jjoao/Augusto-jjoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
