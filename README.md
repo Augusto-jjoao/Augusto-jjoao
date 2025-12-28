@@ -1,10 +1,12 @@
 # João Augusto Rodrigues
 > Graduando em Sistemas de Informação
 
+otimizando soluções
+desenvolvimento focado em otimização
+
 ## Sobre Mim
-Sou um desenvolvedor que adora solucionar problemas e criar novas alternativas mais eficazes. Atualmente estou atuando como estagiário na empresa *LEVTY*
-e estou no 5º período de Sistemas de Informação na Universidade Federal de Ouro Preto. Dentre as vastas áreas da tecnologia, sou particularmente interessado
-nas áreas de engenharia de software e análise de dados.
+Apaixonado desde cedo pelas áreas da tecnologia e matemática, segui por este caminho na minha carreira profissional. Assim, entrei no curso de Sistemas de Informação - atualmente no 5º período - 
+e estou estagiando na empresa **LEVTY**. Nas vastas possibilidades desta área, me dedico espeicalmente em desenvolvimento e arquitetura de software.
 
 ## Habilidades Técnicas
 
