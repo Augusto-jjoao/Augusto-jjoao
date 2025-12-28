@@ -18,7 +18,7 @@ nas áreas de engenharia de software e análise de dados.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet, nodejs" />
+    <img src="https://skillicons.dev/icons?i=dotnet,nodejs" />
   </a>
 </p>
 
@@ -30,9 +30,6 @@ nas áreas de engenharia de software e análise de dados.
   </a>
   <a href="https://www.instagram.com/joao_augusto.13?igsh=enFxbmpjdG13NGRy">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="discord.com/365914556414951424">
-    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
 
