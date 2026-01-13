@@ -3,7 +3,7 @@
 
 ## Sobre Mim
 Apaixonado desde cedo pelas áreas da tecnologia e matemática, segui por este caminho na minha carreira profissional. Assim, entrei no curso de Sistemas de Informação - atualmente no 5º período - 
-e estou estagiando na empresa **LEVTY**. Nas vastas possibilidades desta área, me dedico espeicalmente em desenvolvimento e arquitetura de software.
+e estou estagiando na empresa **LEVTY**. Nas vastas possibilidades desta área, me dedico especialmente em desenvolvimento e arquitetura de software.
 
 ## Habilidades Técnicas
 
